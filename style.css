@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box;
+    /* box sizing makes sure the website adjusts to the viewport of the user, ensuring no horizontal scroll bar is created. it prevents padding from adding too much.. */
+}
+body {
+    margin: 0;
+    min-height: 100vh;
+    /* mini height makes sure that background occupies entire page, even if content ends... */
+    background-color: dodgerblue;
+}
